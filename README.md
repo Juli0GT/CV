@@ -2,13 +2,29 @@
 ##### (An ambitious Full Stack Junior Developer)
 
 
-[Profile](#profile)   |   [Skills](#skills)   |   [Projects](#projects)   |   [Education](#education)   |   [Experience](#experience)   |   [Interests](#interests)   |   <a href=https://uk.linkedin.com/in/juliogteran>My Linkedin Profile</a>
+[Profile](#profile)   |   [Skills](#skills)   |   [Projects](#projects)   |   [Education](#education)   |   [Experience](#experience)   |   [Interests](#interests)   |   <a href="https://uk.linkedin.com/in/juliogteran">My Linkedin Profile</a>
 
 ## Profile
 
 I have graduated from two highly selective technology-related courses: **Makers Academy**, 16 weeks software development bootcamp, where I learnt to code using the best methodologies and practices in the industry, and **MSc in Management, Information Systems and Digital Innovation at London School of Economics** where I learnt how to combine the social, the organizational and the technological to generate value and benefit. In addition to my technological education, I gained commercial expereience at Bubblo - an early stage start up - where I learnt about continually iterating on a product in response to user data.
 
-**I'm looking for a role in agile development** where I can keep consolidating and improving my programming skills, while also gaining a better **I'm looking for a role in agile development** where I can keep consolidating and improving my programming skills, while also gaining a better **I'm looking for a role in agile development** where I can keep consolidating and improving my pl r**I'm lld be**I'm looking for a role in agile development** where I can keep consolidating and improving my programming skills, while also gaining a better **I'm looking for a role in agile development** where I can keep consolidating and improving my programming skills, while also gaining a better **I'm looking for a role in agile development** where I can keep consolidating and improving my pl r**I'm lld be**I'm looking for a role in agile development** where I can keep consolidating and improving my programming skills, while also gaining a better **I'm looking for a role in agile development** where I can keep consolidatinct ommunicator
+**I'm looking for a role in agile development** where I can keep consolidating and improving my programming skills, while also gaining a better understanding of the management of the application of technology in the 'real world'.
+
+**Tech Skills: Ruby, Rails, Sinatra, JavaScript, React, Node.js, Express, JQuery, PostgreSQL**.
+
+I am a person driven by curiosity and motivation. My ideal role would be one in which I could continue my personal development, whilst taking on responsibility and creating a positive impact for both the company and the people.
+
+## Skills
+
+#### Team Worker
+
+When I was young I used to play saxophone in a band in which I learnt that group outcomes require more than siloed individual performances. Bubblo and Contacto Photo are small companies where I had the privilege to work. The ability of the group to work as a team at both Bubblo and Contacto Photo had a direct impact on the success. At Contacto I was in charge of management of the picture editing. Therefore I always had to have direct and effective collaboration with sales people to reach magazines with the right material before any competitors. Apart from that, I've always been referred as a positive person, who spreads happiness and joy in the working place.
+
+#### Logical Reasoning
+
+During my years at high school in Spain, where I had the possibility to chose between different fields of study, I did the Technological one which is focused on pure maths, physics and chemistry. Allowed me to develop strong rational thinking, which was consolidated with my business management studies. That mindset has been a great resource during my learning to code journey. When it comes to problem solving, my mathematical thinking allows me to chose the right approach minimizing difficulty and maximazing efficiency. It is also a useful skill when learning new things. Dividing the task in to manageable pieces, prioritising the important ones and learning them in a rational way, is the process I follow naturally each time I face a new concept.
+
+#### Good Communicator
 
 During my working experience at Bubblo, I was in charged of creating and maintaining relationships with different venues that were collaborating with the app. That included a wide range of types of venues and managers, from small and more familiar coffee shops to big chains of restaurants allowing me to learn to create trusting relationships with many different stakeholders. Further, my experience of living abroad (In England, where I still reside) has made me face new challenges that continue to develop my communication skills.
 
@@ -18,8 +34,48 @@ During my working experience at Bubblo, I was in charged of creating and maintai
 ------------- | ----------- | ------------ | -------
 [CSS-Creator](https://github.com/Juli0GT/CSS-creator) | CSS & HTML code generator for simple web-pages | JS, React, HTML, CSS | Jest, Enzyme |
 [Haysta:k](https://github.com/Juli0GT/haystak) | Chrome Extension - Helping developers efficiently find answers to FAQ's & PAQ's | JS, Jquery, CSS | Jasmine |
-[RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors [RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors [RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors [RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors [RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors [RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors [RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors [RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors [RPS](https://github.com/Juli- 10% Acceptance[RPS](https://github.com/Juli0GT/rps-challengemb[RPS](https://github.com/Juli0GT/rps-challenge) | Ror[RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors [RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissoio[RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors [RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors [RPS](hal transultilingual         dictionary development.
+[RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors game | Ruby, Sinatra, HTML | RSpec, Capybara |
+
+You can see all my works that far at <a href="https://github.com/Juli0GT">my Github</a>.
+
+## Education
+
+#### Makers Academy (September 2016 to December 2016)
+
+- **Europe's leading Web Developer bootcamp. Where I have learnt from industry experts the most used technologies in today's     marketplace.** 
+- Object-Oriented Programming
+- Agile Methodologies
+- Pair Programming
+- Test-Driven Development
+- Software Craftsmanship
+- Ruby, Rails, Javascript, Node.js
+- Rspec, Jasmine, Mocha
+- 10% Acceptance rate.
+
+#### London School of Economics (September 2014 to September 2015)
+
+- **MSc Management, Information Systems and Digital Innovation.**
+- Processes and practices of developing contemporary Information Systems.
+- Technology-based innovation, organizational change and information systems management.
+- Deloitte Digital Transformation Bootcamp Project: the strategic digital and organisational transformation of a UK Mobile       Vitrual Network Operator http://blogs.lse.ac.uk/management/2016/12/15/the-misdi-bootcamp/
+- 15% Acceptance rate.
+
+#### Rey Juan Carlos University of Madrid (September 2009 to September 2013)
+
+- **BSc Business Management.**
+- Relevant Courses: Accounting, Economics, Corporate Decision Methods, Statistics, Strategic Management.
+
+## Experience
+
+**Bubblo App (November 2015 to June 2016)**
+- Early stage startup (I had the opportunity to work in different tasks).
+- Identifying potential collaborators and building and maintaining relationships for Bubblo London.
+- Generation of content and ensuring consistency and correctness of information on Bubblo Dubai and Bubblo Mumbai.
+
+**Contacto Photo (February 2013 to September 2014)**
+- Web Administrator.
+- Support in the design and production of an application for mobile devices (IOS): Vatican Photo (Appstore)(Non technical).
+- Documenting aspects of a photo database managing such as: metadata and semantic annotations processes and multilingual         dictionary development.
 
 ## Interests
 Arts, Travelling, Social Issues.
-
