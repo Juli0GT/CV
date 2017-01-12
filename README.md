@@ -10,7 +10,7 @@ I have graduated from two highly selective technology-related courses: **Makers 
 
 **I'm looking for a role in agile development** where I can keep consolidating and improving my programming skills, while also gaining a better understanding of the management of the application of technology in the 'real world'.
 
-**Tech Skills: Ruby, Rails, Sinatra, JavaScript, React, Node.js, Express, JQuery, PostgreSQL**.
+**Tech Skills: Ruby, Rails, Sinatra, JavaScript, React, Node.js, Express, JQuery, PostgreSQL, Object-Oriented Programming, Agile Methodologies, Test-Driven Development, Software Craftsmanship, Pair Programming, Git, Heroku**.
 
 I am a person driven by curiosity and motivation. My ideal role would be one in which I could continue my personal development, whilst taking on responsibility and creating a positive impact for both the company and the people.
 
@@ -18,15 +18,26 @@ I am a person driven by curiosity and motivation. My ideal role would be one in 
 
 #### Team Worker
 
-When I was young I used to play saxophone in a band in which I learnt that group outcomes require more than siloed individual performances. Bubblo and Contacto Photo are small companies where I had the privilege to work. The ability of the group to work as a team at both Bubblo and Contacto Photo had a direct impact on the success. At Contacto I was in charge of management of the picture editing. Therefore I always had to have direct and effective collaboration with sales people to reach magazines with the right material before any competitors. Apart from that, I've always been referred as a positive person, who spreads happiness and joy in the working place.
+When I was young I used to play saxophone in a band in which I learnt that group outcomes require more than siloed individual performances. 
+
+Bubblo and Contacto Photo are small companies where I had the privilege to work. The ability of the group to work as a team in both cases had a direct impact on the success. 
+At Contacto I was in charge of management of the picture editing. Therefore I always had to have direct and effective collaboration with sales people to reach magazines with the right material before any competitors. 
+
+Also, I've always been referred as a positive person, who spreads happiness and joy in the working place.
 
 #### Logical Reasoning
 
-During my years at high school in Spain, where I had the possibility to chose between different fields of study, I did the Technological one which is focused on pure maths, physics and chemistry. Allowed me to develop strong rational thinking, which was consolidated with my business management studies. That mindset has been a great resource during my learning to code journey. When it comes to problem solving, my mathematical thinking allows me to chose the right approach minimizing difficulty and maximazing efficiency. It is also a useful skill when learning new things. Dividing the task in to manageable pieces, prioritising the important ones and learning them in a rational way, is the process I follow naturally each time I face a new concept.
+During my years at high school in Spain, where I had the possibility to chose between different fields of study, I did the Technological one which is focused on pure maths, physics and chemistry. Allowed me to develop strong rational thinking, which was consolidated with my business management studies. 
+
+That mindset has been a great resource during my learning to code journey. When it comes to problem solving, my mathematical thinking allows me to chose the right approach minimizing difficulty and maximazing efficiency. 
+
+Also a useful skill when learning new things. Dividing the task in to manageable pieces, prioritising the important ones and learning them in a rational way, is the process I follow naturally each time I face a new concept.
 
 #### Good Communicator
 
-During my working experience at Bubblo, I was in charged of creating and maintaining relationships with different venues that were collaborating with the app. That included a wide range of types of venues and managers, from small and more familiar coffee shops to big chains of restaurants allowing me to learn to create trusting relationships with many different stakeholders. Further, my experience of living abroad (In England, where I still reside) has made me face new challenges that continue to develop my communication skills.
+During my working experience at Bubblo, I was in charged of creating and maintaining relationships with different venues that were collaborating with the app. That included a wide range of types of venues and managers, from small and more familiar coffee shops to big chains of restaurants allowing me to learn to create trusting relationships with many different stakeholders. 
+
+Further, my experience of living abroad (In England, where I still reside) has made me face new challenges that continue to develop my communication skills.
 
 ## Projects
 
@@ -36,13 +47,13 @@ During my working experience at Bubblo, I was in charged of creating and maintai
 [Haysta:k](https://github.com/Juli0GT/haystak) | Chrome Extension - Helping developers efficiently find answers to FAQ's & PAQ's | JS, Jquery, CSS | Jasmine |
 [RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors game | Ruby, Sinatra, HTML | RSpec, Capybara |
 
-You can see all my works that far at <a href="https://github.com/Juli0GT">my Github</a>.
+You can see all my works so far in <a href="https://github.com/Juli0GT">my Github</a>.
 
 ## Education
 
 #### Makers Academy (September 2016 to December 2016)
 
-- **Europe's leading Web Developer bootcamp. Where I have learnt from industry experts the most used technologies in today's     marketplace.** 
+- **Europe's leading Web Developer bootcamp** 
 - Object-Oriented Programming
 - Agile Methodologies
 - Pair Programming
