@@ -6,7 +6,7 @@
 
 ## Profile
 
-I have graduated from two highly selective technology-related courses: **Makers Academy**, 16 weeks software development bootcamp, where I learnt to code using the best methodologies and practices in the industry, and **MSc in Management, Information Systems and Digital Innovation at London School of Economics** where I learnt how to combine the social, the organizational and the technological to generate value and benefit. In addition to my technological education, I gained commercial expereience at Bubblo - an early stage start up - where I learnt about continually iterating on a product in response to user data.
+I have graduated from two highly selective technology-related courses: **Makers Academy**, 16 weeks software development bootcamp, where I learnt to code using the best methodologies and practices in the industry, and **MSc in Management, Information Systems and Digital Innovation at London School of Economics** where I learnt how to combine the social, the organizational and the technological to generate value and benefit. In addition to my technological education, I gained commercial experience at Bubblo - an early stage start up - where I learnt about continually iterating on a product in response to user data.
 
 **I'm looking for a role in agile development** where I can keep consolidating and improving my programming skills, while also gaining a better understanding of the management of the application of technology in the 'real world'.
 
