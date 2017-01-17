@@ -74,7 +74,7 @@ You can see all my works so far in <a href="https://github.com/Juli0GT">my Githu
 #### Rey Juan Carlos University of Madrid (September 2009 to September 2013)
 
 - **BSc Business Management.**
-- Relevant Courses: Accounting, Economics, Corporate Decision Methods, Statistics, Strategic Management.
+- Relevant Courses: Corporate Decision Methods, Statistics, Marketing, Strategic Management, Accounting, Economics.
 
 ## Experience
 
@@ -89,4 +89,4 @@ You can see all my works so far in <a href="https://github.com/Juli0GT">my Githu
 - Documenting aspects of a photo database managing such as: metadata and semantic annotations processes and multilingual         dictionary development.
 
 ## Interests
-Arts, Travelling, Social Issues.
+Arts, Travelling, Sports, Social Issues.
