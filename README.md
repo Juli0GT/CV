@@ -6,7 +6,7 @@
 
 ## Profile
 
-After almost one year working for Mettrr as a **front end developer** in London, where I have been delivering value since day 1st. Working closely with UI/UX designers, to bridge the gap between graphical design and technical implementation. Also I've been the main front-end developer in a massive project, the development of a new CRM for internal use. Which has been an invaluable learning experience through all the different stages of a big information systems project. 
+Currently working for Mettrr as a **front end developer** in London, where I have been delivering value since day 1st. Working closely with UI/UX designers, to bridge the gap between graphical design and technical implementation. Also I've been the lead front end developer in a massive project as the development of a new CRM for internal use. Which has been an invaluable learning experience through all the different stages of a big information systems project. 
 
 Before getting into that job, I have graduated from two highly selective technology-related courses: **Makers Academy**, 16 weeks software development bootcamp, where I learnt to code using the best methodologies and practices in the industry, and **MSc in Management, Information Systems and Digital Innovation at London School of Economics** where I learnt how to combine the social, the organizational and the technological to generate value and benefit. In addition to my technological education, I gained commercial experience at Bubblo - an early stage start up - where I learnt about continually iterating on a product in response to user data.
 
