@@ -6,11 +6,13 @@
 
 ## Profile
 
-I have graduated from two highly selective technology-related courses: **Makers Academy**, 16 weeks software development bootcamp, where I learnt to code using the best methodologies and practices in the industry, and **MSc in Management, Information Systems and Digital Innovation at London School of Economics** where I learnt how to combine the social, the organizational and the technological to generate value and benefit. In addition to my technological education, I gained commercial experience at Bubblo - an early stage start up - where I learnt about continually iterating on a product in response to user data.
+After almost one year working for Mettrr as a **front end developer** in London, where I have been delivering value since day 1st. Working closely with UI/UX designers, to bridge the gap between graphical design and technical implementation. Also I've been the main front-end developer in a massive project, the development of a new CRM for internal use. Which has been an invaluable learning experience through all the different stages of a big information systems project. 
 
-**I'm looking for a role in agile development** where I can keep consolidating and improving my programming skills, while also gaining a better understanding of the management of the application of technology in the 'real world'.
+Before getting into that job, I have graduated from two highly selective technology-related courses: **Makers Academy**, 16 weeks software development bootcamp, where I learnt to code using the best methodologies and practices in the industry, and **MSc in Management, Information Systems and Digital Innovation at London School of Economics** where I learnt how to combine the social, the organizational and the technological to generate value and benefit. In addition to my technological education, I gained commercial experience at Bubblo - an early stage start up - where I learnt about continually iterating on a product in response to user data.
 
-**Tech Skills: Ruby, Rails, Sinatra, JavaScript, React, Node.js, Express, JQuery, PostgreSQL, Object-Oriented Programming, Agile Methodologies, Test-Driven Development, Software Craftsmanship, Pair Programming, Git, Heroku**.
+**I'm looking for a role in front-end development in Berlin** where I can keep consolidating and improving my programming skills, while also gaining a better understanding of the management of the application of technology in the 'real world'.
+
+**Tech Skills:  JavaScript (ES6), React, Vue.js, Node.js, Express, JQuery, Mocha, Chai, Karma, PostgreSQL, Object-Oriented Programming, Agile Methodologies, Test-Driven Development, Software Craftsmanship, Pair Programming, Git, Heroku**.
 
 I am a person driven by curiosity and motivation. My ideal role would be one in which I could continue my personal development, whilst taking on responsibility and creating a positive impact for both the company and the people.
 
@@ -47,7 +49,7 @@ Further, my experience of living abroad (In England, where I still reside) has m
 [Haysta:k](https://github.com/Juli0GT/haystak) | Chrome Extension - Helping developers efficiently find answers to FAQ's & PAQ's | JS, Jquery, CSS | Jasmine |
 [RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors game | Ruby, Sinatra, HTML | RSpec, Capybara |
 
-You can see all my works so far in <a href="https://github.com/Juli0GT">my Github</a>.
+You can see all my works so far in <a href="https://github.com/Juli0GT">my Github</a>, take into account that all these projects have been developed during my time as a Makers Academy student, after that I have developing best in class products for Mettrr.
 
 ## Education
 
@@ -78,6 +80,12 @@ You can see all my works so far in <a href="https://github.com/Juli0GT">my Githu
 
 ## Experience
 
+**Mettrr (Februray 2017 to Present)**
+
+- Working on an Agile Scrum environment as a front-end developer.
+- Main front-end developer on the development of a new CRM for internal use.
+- JavaScript (ES6), Vue.js, Vuex, Mocha, Karma, Chai, Hugo.
+
 **Bubblo App (November 2015 to June 2016)**
 - Early stage startup (I had the opportunity to work in different tasks).
 - Identifying potential collaborators and building and maintaining relationships for Bubblo London.
@@ -89,4 +97,4 @@ You can see all my works so far in <a href="https://github.com/Juli0GT">my Githu
 - Documenting aspects of a photo database managing such as: metadata and semantic annotations processes and multilingual         dictionary development.
 
 ## Interests
-Arts, Travelling, Sports, Social Issues.
+Blockchain, Cryptocurrencies, Arts, Travelling, Sports, Social Issues.
