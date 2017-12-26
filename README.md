@@ -1,5 +1,5 @@
 ## JULIO GONZALEZ
-##### (An ambitious Full Stack Junior Developer)
+##### (An ambitious Front End Developer)
 
 
 [Profile](#profile)   |   [Skills](#skills)   |   [Projects](#projects)   |   [Education](#education)   |   [Experience](#experience)   |   [Interests](#interests)   |   <a href="https://uk.linkedin.com/in/juliogteran">My Linkedin Profile</a>
