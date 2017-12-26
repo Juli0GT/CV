@@ -41,15 +41,24 @@ During my working experience at Bubblo, I was in charged of creating and maintai
 
 Further, my experience of living abroad (In England, where I still reside) has made me face new challenges that continue to develop my communication skills.
 
-## Projects
+## Experience
 
- Project | Description | Technologies | Testing
-------------- | ----------- | ------------ | -------
-[CSS-Creator](https://github.com/Juli0GT/CSS-creator) | CSS & HTML code generator for simple web-pages | JS, React, HTML, CSS | Jest, Enzyme |
-[Haysta:k](https://github.com/Juli0GT/haystak) | Chrome Extension - Helping developers efficiently find answers to FAQ's & PAQ's | JS, Jquery, CSS | Jasmine |
-[RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors game | Ruby, Sinatra, HTML | RSpec, Capybara |
+**Mettrr (Februray 2017 to Present)**
 
-You can see all my works so far in <a href="https://github.com/Juli0GT">my Github</a>, take into account that all these projects have been developed during my time as a Makers Academy student, after that I have developing best in class products for Mettrr.
+- Working on an Agile Scrum environment as a front-end developer.
+- Lead front-end developer on the development of a new CRM for internal use.
+- JavaScript (ES6), Vue.js, Vuex, Mocha, Karma, Chai, Hugo.
+- Coding up new themes for static customer websites using HTML5, CSS3 & JavaScript.
+
+**Bubblo App (November 2015 to June 2016)**
+- Early stage startup (I had the opportunity to work in different tasks).
+- Identifying potential collaborators and building and maintaining relationships for Bubblo London.
+- Generation of content and ensuring consistency and correctness of information on Bubblo Dubai and Bubblo Mumbai.
+
+**Contacto Photo (February 2013 to September 2014)**
+- Web Administrator.
+- Support in the design and production of an application for mobile devices (IOS): Vatican Photo (Appstore)(Non technical).
+- Documenting aspects of a photo database managing such as: metadata and semantic annotations processes and multilingual         dictionary development.
 
 ## Education
 
@@ -78,23 +87,15 @@ You can see all my works so far in <a href="https://github.com/Juli0GT">my Githu
 - **BSc Business Management.**
 - Relevant Courses: Corporate Decision Methods, Statistics, Marketing, Strategic Management, Accounting, Economics.
 
-## Experience
+## Projects
 
-**Mettrr (Februray 2017 to Present)**
+ Project | Description | Technologies | Testing
+------------- | ----------- | ------------ | -------
+[CSS-Creator](https://github.com/Juli0GT/CSS-creator) | CSS & HTML code generator for simple web-pages | JS, React, HTML, CSS | Jest, Enzyme |
+[Haysta:k](https://github.com/Juli0GT/haystak) | Chrome Extension - Helping developers efficiently find answers to FAQ's & PAQ's | JS, Jquery, CSS | Jasmine |
+[RPS](https://github.com/Juli0GT/rps-challenge) | Rock, Paper, Scissors game | Ruby, Sinatra, HTML | RSpec, Capybara |
 
-- Working on an Agile Scrum environment as a front-end developer.
-- Lead front-end developer on the development of a new CRM for internal use.
-- JavaScript (ES6), Vue.js, Vuex, Mocha, Karma, Chai, Hugo.
-
-**Bubblo App (November 2015 to June 2016)**
-- Early stage startup (I had the opportunity to work in different tasks).
-- Identifying potential collaborators and building and maintaining relationships for Bubblo London.
-- Generation of content and ensuring consistency and correctness of information on Bubblo Dubai and Bubblo Mumbai.
-
-**Contacto Photo (February 2013 to September 2014)**
-- Web Administrator.
-- Support in the design and production of an application for mobile devices (IOS): Vatican Photo (Appstore)(Non technical).
-- Documenting aspects of a photo database managing such as: metadata and semantic annotations processes and multilingual         dictionary development.
+You can see all my works so far in <a href="https://github.com/Juli0GT">my Github</a>, take into account that all these projects have been developed during my time as a Makers Academy student, after that I have developing best in class products for Mettrr.
 
 ## Interests
 Blockchain, Cryptocurrencies, Arts, Travelling, Sports, Social Issues.
