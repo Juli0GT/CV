@@ -83,7 +83,7 @@ You can see all my works so far in <a href="https://github.com/Juli0GT">my Githu
 **Mettrr (Februray 2017 to Present)**
 
 - Working on an Agile Scrum environment as a front-end developer.
-- Main front-end developer on the development of a new CRM for internal use.
+- Lead front-end developer on the development of a new CRM for internal use.
 - JavaScript (ES6), Vue.js, Vuex, Mocha, Karma, Chai, Hugo.
 
 **Bubblo App (November 2015 to June 2016)**
